@@ -9,10 +9,7 @@ h2 {
 	height: max-content;
 	position: relative;
 	background-color: lightblue;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	border-bottom-left-radius: 5px;
-	border-bottom-right-radius: 5px;
+	border-radius: 5px 5px 5px 5px;
 	border-style: solid;
   	border-color: black;
 	border-width: 1px;
