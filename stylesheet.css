@@ -3,3 +3,12 @@ h2 {
 	/* text-align: center; */
 	color: black;
 }
+.skill {
+	width: 100%;
+	height: 70px;
+	position: relative;
+	top: -40px;
+	background-color: #7FC7AF;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
