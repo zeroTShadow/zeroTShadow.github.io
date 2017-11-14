@@ -7,8 +7,10 @@ h2 {
 	width: relative;
 	height: 15px;
 	position: relative;
-	<--top: -40px;-->
+	<-- top: -40px; -->
 	background-color: #7FC7AF;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
 }
