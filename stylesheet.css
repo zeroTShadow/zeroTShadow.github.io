@@ -3,9 +3,10 @@ h2 {
 	color: black;
 }
 .skill {
-	width: 150px;
-	height: 15px;
+	width: 30%;
+	height: 20px;
 	position: relative;
+	top: -40px;
 	background-color: #7FC7AF;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
