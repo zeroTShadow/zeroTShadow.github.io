@@ -3,11 +3,13 @@ h2 {
 	color: black;
 }
 .skill {
-	width: 30%;
-	height: 20px;
+	font-family: Arial;
+	color: black;
+	width: 100%;
+	height: 30px;
 	position: relative;
 	top: -40px;
-	background-color: #7FC7AF;
+	background-color: blue;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 	border-bottom-left-radius: 5px;
