@@ -1,13 +1,11 @@
 h2 {
 	font-family: Verdana, Arial, sans-serif;
-	<-- text-align: center; -->
 	color: black;
 }
 .skill {
-	width: 60px;
+	width: 150px;
 	height: 15px;
 	position: relative;
-	<-- top: -40px; -->
 	background-color: #7FC7AF;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
