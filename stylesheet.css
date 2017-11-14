@@ -5,10 +5,9 @@ h2 {
 .skill {
 	font-family: Arial;
 	color: black;
-	width: 100%;
+	width: 50%;
 	height: 30px;
 	position: relative;
-	top: -40px;
 	background-color: blue;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
