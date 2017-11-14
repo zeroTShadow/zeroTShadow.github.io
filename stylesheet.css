@@ -4,7 +4,7 @@ h2 {
 	color: black;
 }
 .skill {
-	width: 100%;
+	width: relative;
 	height: 15px;
 	position: relative;
 	<--top: -40px;-->
